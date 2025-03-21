@@ -16,5 +16,6 @@ int main() {
  const char* result = chetnost ? "Число четное" : "Число нечетное";
   
  printf( "%s\n", result );
+ 
  return 0;
 }
