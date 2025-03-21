@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() 
+
 {
 float temperature;
 printf ( "Напишите температуру в Цельсия: \n" );
